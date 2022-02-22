@@ -1,0 +1,386 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief treatise about the spiritual nature of God and of His worship by Edw. Bagshaw ...</title>
+            <author>Bagshaw, Edward, 1629-1671.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 54 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29049</idno>
+            <idno type="STC">Wing B405</idno>
+            <idno type="STC">ESTC R9965</idno>
+            <idno type="EEBO-CITATION">11670543</idno>
+            <idno type="OCLC">ocm 11670543</idno>
+            <idno type="VID">48049</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29049)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48049)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 10:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief treatise about the spiritual nature of God and of His worship by Edw. Bagshaw ...</title>
+                  <author>Bagshaw, Edward, 1629-1671.</author>
+               </titleStmt>
+               <extent>[10], 25 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for C.G.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>God --  Attributes.</term>
+               <term>God --  Worship and love.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48049:1" rendition="simple:additions"/>
+            <pb facs="tcp:48049:1" rendition="simple:additions"/>
+            <p>A Brief TREATISE ABOUT THE Spiritual Nature OF GOD AND OF HIS WORSHIP.</p>
+            <p>By <hi>Edw. Bagſhaw,</hi> Student of Ch. Ch.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>C. G. Anno,</hi> 1662.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:48049:2"/>
+            <pb facs="tcp:48049:2"/>
+            <head>A Prefatory EPISTLE Dedicated to the Right Honourable The EARL of <hi>ANGLESEY.</hi> One of his Majeſties moſt Honourable PRIVY COUNCEL.</head>
+            <opener>
+               <salute>RIGHT HONOURABLE.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hoſe who owe great ſums of Money, and withal have any thank-ful eſteem for the civility and kindneſs of their Creditours, do ſeldom come to ask any longer time of forbearance, but they bring a Preſent in their hands, not ſo much in part of payment, as to give a Teſt and Evidence of their Gratitude, and to ſhew how willing they are to deſerve a Favour. Thus, my Lord, I having now ſome moneths been indebt<g ref="char:EOLhyphen"/>ed
+<pb facs="tcp:48049:3"/>to your Lordſhip, for a Work of another Nature, and by thoſe many Intervenient Buſineſſes (which this Town is but too full of, and which as I could not prevent, ſo your Lordſhip was not willing I ſhould decline them) foreſeeing that I ſhal not preſently be in a capacity of ſatis<g ref="char:EOLhyphen"/>fying my own Deſires, which ſhall alwayes be commenſu<g ref="char:EOLhyphen"/>rate to my Obedience unto Your Lordſhips Commands; I made haſt therefore, together with my requeſt for ſome longer time, to bring along with me this ſmall Offering, not onely as part of the Tribute Iowe, but likewiſe to pre<g ref="char:EOLhyphen"/>vent all ſiniſter ſuſpitions, as if, while I omited to do that which your Lordſhip principally enjoyned, I had al<g ref="char:EOLhyphen"/>together idled away my time, and done juſt nothing at all; which, beſides the ſin of it to my ſelf, would be too un<g ref="char:EOLhyphen"/>handſome a return of your Lordſhips Nobleneſſe, in af<g ref="char:EOLhyphen"/>fording me ſo full convenience and opportunities of ſtu<g ref="char:EOLhyphen"/>die.</p>
+            <p>And though ſome of thoſe things I have writ, ſince this Engagement was upon me, may ſeem to be Caſual and un<g ref="char:EOLhyphen"/>deſigned in their Choice, yet I muſt humbly leave it to your Lordſhips Judgement (whoſe thorough knowledge of that Controverſie makes you the fitteſt perſon to decide it) to reſolve, whether my late Treatiſe about <hi>Hereſies,</hi> and this about the <hi>Spirituality of Gods Nature &amp; Worſhip,</hi> were not antecedently neceſsary to be publiſhed, before I proceeded to meddle with the <hi>Popes Infallibility;</hi> which, as your Lordſhip hath often moſt judiciouſly obſerved, is the <hi>At<g ref="char:EOLhyphen"/>las</hi>
+               <pb facs="tcp:48049:3"/>and Principal Column to ſupport all that <hi>Babyloniſh</hi> Building; and could it but once be removed out of the way (which ſure is no great Maſtery, in a thing that is ſo Airy and ſo defenceleſſe) all that is built upon it, would, for want of a Foundation, tumble down to the Ground. And this employment, of <hi>laying my Ax to the Root of that Tree,</hi> your Lordſhip, who could have done it much better, was pleaſed long ſince to lay upon me, and there<g ref="char:EOLhyphen"/>by (that you might be free to ſerve the Publick) denyed your ſelf that Honour, which, in ſo famous and con<g ref="char:EOLhyphen"/>cerning a Cauſe, Your Lordſhips own more able and learn<g ref="char:EOLhyphen"/>ed Pen would have juſtly gained you.</p>
+            <p>But how impatient and eager ſoever I was to perform this Task, and thereby give your Lordſhip a ſuddain Proof of my obedience, yet I had not waded far into it, but preſently my edge was taken off; for the Arguments I met with to maintain that Opinion, were ſo very Weak and Fallacious; there was ſo large a train of <hi>Non ſequi<g ref="char:EOLhyphen"/>tur's,</hi> and ſuch a ſeries of Impoſſible Suppoſitions, that I grew quickly tired, not ſo much with the length and difficulty of the Journey, as with the Noyſom Dirt and meer Tediouſneſs of the Way: And I immediately took it for granted, that none of thoſe Authors I read, did be<g ref="char:EOLhyphen"/>lieve the <hi>Popes Infallibility</hi> themſelves, ſince they took ſo little pains to convince others. And here, my Lord, for want of finding ſomething that might deſerve a Scho<g ref="char:EOLhyphen"/>lar-like confutation, I have ſtuck ever ſince, and though
+<pb facs="tcp:48049:4"/>my Papers wanted but one day to perfect them, yet the Ab<g ref="char:EOLhyphen"/>ſurdities I oppoſe, are ſo groſſe and open, and the Conqueſt ſo very eaſie, that I am almoſt aſhamed of my victory, and therefore have not yet been at the pains to compleat it.</p>
+            <p>Whileſt I did thus delay to perfect my Firſt Deſign, I thought Writers of Controverſies ought to do, like Generals of Armies; before they ſit down before the Capital City, they ſummon in every petty Gariſon, which might either im<g ref="char:EOLhyphen"/>pede their March, or prove a Retreat for the vanquiſh<g ref="char:EOLhyphen"/>ed Enemy: So before the Main Queſtion in any Contro<g ref="char:EOLhyphen"/>verſie be handled, every Objection that lies perdue in the way, muſt be anſwered, that ſo thoſe ſtumbling-blocks being removed, we may have a better proſpect into the Strength or Weakneſs of any Point, as it ſtands by it ſelf, without the Enterfering of thoſe Additional Appen<g ref="char:EOLhyphen"/>dixes. In this, the <hi>Kingdome</hi> of <hi>Chriſt</hi> and <hi>Antichriſt</hi> agree, that to the Deſtruction of the one, as well as to the Eſtabliſhing of the other, the way muſt be firſt prepared and levelled, and before their Fort of <hi>Infallibility</hi> be ta<g ref="char:EOLhyphen"/>ken, all the ſnares they ſcatter in the way, all their Miſts and undermining Polices, all their Ambushes and little Hiding-places, and laſtly every thing, which may render the Victory inſecure and hazzardous muſt be diſcovered and prevented.</p>
+            <p>Since then the Papiſts do commonly uſe two Masks, un<g ref="char:EOLhyphen"/>der which they cover their <hi>Dark</hi> and <hi>Diviliſh Doctrine;</hi> the one of a terrible and frightful appearance, (which is
+<pb facs="tcp:48049:4"/>their vehement urging the great Inconveniences that fol<g ref="char:EOLhyphen"/>low ſeparation from them; in which the multiplicity of <hi>He<g ref="char:EOLhyphen"/>riſies</hi> is moſt Tragically inſiſted on: And for which our Church is ſtill reproached by them as <hi>Schiſmatical</hi>) The other of a more benign and pleaſing Aſpect; which is the outward gaudery, &amp; curious dreſſe of their Religion, where<g ref="char:EOLhyphen"/>with that <hi>Spiritual Whore</hi> attires her ſelf, and ſtrong<g ref="char:EOLhyphen"/>ly faſcinates her unwary beholders. In oppoſition to the firſt, before I had the honour to attend your Lordſhip, I pleaded for <hi>Chriſtian Liberty,</hi> in the juſt extent and latitude of it; I have already ſhewed that thoſe ill conſequences ſo much talked of, do not flow from <hi>Liberty,</hi> (which no <hi>Rational,</hi> much, leſſe <hi>Spiritu<g ref="char:EOLhyphen"/>al</hi> agent can be without) but from the abuſe of it; which if it breaks out into Civil or Moral miſdemeanors, the Ci<g ref="char:EOLhyphen"/>vil Laws ought to puniſh, unto which our Outward Man is ſubject; but if it terminate and reſt in ſpeculative errors, which may otherwiſe be called <hi>Hereſies,</hi> ſuch <hi>Tares</hi> ought to <hi>grow together with the Wheat;</hi> for an un an<g ref="char:EOLhyphen"/>ſwerable reaſon, which <hi>Chriſt</hi> hath given, though <hi>Anti<g ref="char:EOLhyphen"/>chriſt</hi> approves it not, <hi>for fear the rooting up of them by violence, ſhould prove the Deſtruction of the good Corn alſo;</hi> for ſince every <hi>Heretick,</hi> thinks his own Opinion to be true; if he finds nothing uſed to ſup<g ref="char:EOLhyphen"/>preſſe him, but ſuch force, as no Scripture doth countenance; what will hinder him, when he gains Power, from uſing <hi>Legem Talionis,</hi> and endeavouring the ſame violent waies
+<pb facs="tcp:48049:5"/>of ſuppreſſing diſſenters? and then it will be in vain to plead for <hi>Liberty,</hi> which by appearing firſt in perſecution of <hi>Hereticks,</hi> we denied to others. And this, my Lord, is the ſumme of what I have lately publiſhed, and dedica<g ref="char:EOLhyphen"/>ted to your Noble Kinſman, who is moſt Dear to your Lord<g ref="char:EOLhyphen"/>ſhip,
+<note place="margin">Sir <hi>J.V.</hi>
+               </note> not more by the nearneſſe of his Relation unto your Excellent Lady, then by his Reſemblance and Imitation of the ſame Vertuous and Noble Qualities. <g ref="char:V">Ʋ</g>nto whoſe indeavours on my behalf, I have me thinks made but too faint a return, ſince by his means I have been made parta<g ref="char:EOLhyphen"/>ker of one of the greateſt Temporal Happineſſes I could am<g ref="char:EOLhyphen"/>bition, and that is an acquaintance with, and a Perſonall Relation to your Lordſhip and Family; in which who ever fails of living virtuouſly, must fall inexcuſably by his own Fault, ſince he is every day taught the contrary, and that by Eminent and Illuſtrious Examples.</p>
+            <p>As for that other Maske of a Glittering and Pompous Worſhip, which makes the <hi>Romane</hi> Religion ſo taking with Vulgar and Injudicious Obſervers; and by which their eyes are ſo dazzled, that they are unwilling to admit of any thing, which may undeceive them; I did conceive no<g ref="char:EOLhyphen"/>thing could better take them off from doting upon that Painted Carcaſſe of Devotion, then to make a diſcourſe a<g ref="char:EOLhyphen"/>hout the <hi>Inward purity of Goſpel-worſhip,</hi> which de<g ref="char:EOLhyphen"/>pends upon and flows from the conſideration of <hi>Gods Spi<g ref="char:EOLhyphen"/>ritual Nature;</hi> which were it but once thoroughly under<g ref="char:EOLhyphen"/>ſtood, men would preſently ſpurne and trample upon all
+<pb facs="tcp:48049:5"/>that Deviſed and Fantaſtick Beauty of the <hi>Ro<g ref="char:EOLhyphen"/>miſh Dagon;</hi> and when true worſhippers felt, how much the <hi>Splendor</hi> of ſervice, which feeds the eye, is ſhort of the <hi>Spirituality</hi> of it, which ſatisfies the ſoul; they would no longer feed upon Huskes, or let their ſenſes lead them in the choiſe of their Religion. Since it may be found by ex<g ref="char:EOLhyphen"/>perience that <hi>Thretrical Pomp, Delightful Aires, Wel<g ref="char:EOLhyphen"/>tuned Oriſons</hi> and the <hi>loud Inſignificant Jargon of Latine Payers,</hi> do only glut and ſate the appetite, but leave the <hi>Underſtanding unfruitful;</hi> like Rich and Poinant ſawces, they gratifie the Fleſh, but <hi>periſh with the Uſing,</hi> and after all the Immoderate care about them, their end must be <hi>to be caſt out into the Draught.</hi>
+            </p>
+            <p>I have therefore in this ſhort Treatiſe endeavoured to raiſe the Soul, that it might underſtand the True Height of Religious Worſhip, by fixing an intent eye upon the Au<g ref="char:EOLhyphen"/>thor of it, which may be of great <g ref="char:V">Ʋ</g>ſe in this Age we live in, as equally oppoſing the Bold <hi>Atheiſme</hi> of ſome, and the mean-ſpirited <hi>Superſtition</hi> of others; and becauſe I entend it as an Introduction unto my following Diſcourſe againſt the <hi>Pope and Church of Romes Infallibility,</hi> I humbly begg your Lordſhip's acceptance of it, which is the only way to make both It and the Author Con<g ref="char:EOLhyphen"/>ſiderable. Since, to omit your Lordſhip's other Excellen<g ref="char:EOLhyphen"/>cies, even in this very part of Learning (which argues a great and univerſal inſight) of Accurate and cloſe writing
+<pb facs="tcp:48049:6"/>as well as ſpeaking, your Lordſhip hath gained ſuch a Ge<g ref="char:EOLhyphen"/>neral and Deſerved Eſteem, that if this piece doth paſs into the World, under the Countenance of your Lordſhips Approbation, it will be a ſufficient paſs-port, without any other Recommendation.</p>
+            <p>But I ſhall forbear to urge, what, though it may become me to ſpeak, becauſe I ſpeak knowingly, yet your Lordſhip may be unwilling to hear, ſince you care not for living in the Aire of your own praiſe; I ſhall conclude therefore, with deſiring that your Lordship may be long preſerved to do, what you have alwaies hitherto done, things truly great and Noble; that while others begin to ſcorn Religion, you may ſtill go on to practice the Truth and ſtricktneſs of it; That with Your Honourable and Virtuous Lady and Fami<g ref="char:EOLhyphen"/>ly, You may shine in the brighteſt Sphere of Honour here, and of Happineſs hereafter, this is and ſhall be the Conſtant Prayer of</p>
+            <closer>
+               <dateline>Drury-Lane
+<date>Feb. <hi>15. 1661.</hi>
+                  </date>
+               </dateline>
+               <salute>My Lord</salute>
+               <signed>
+                  <hi>Your Lordſhips moſt Obliged and moſt Obedient Servant and Chaplain</hi> Edw. Bagſhaw.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:48049:6"/>
+            <epigraph>
+               <bibl>
+                  <hi>Iohn 4.24.</hi>
+               </bibl>
+               <q>God is a Spirit, and be will be Worſhip<g ref="char:EOLhyphen"/>ed in Spirit and in Truth.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>N this Chapter is contained the Sub<g ref="char:EOLhyphen"/>ſtance of a Diſcourſe, between our Saviour and the <hi>Woman</hi> of <hi>Samaria;</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Verſ. </seg>19</label> who perceiving at laſt that our Savi<g ref="char:EOLhyphen"/>our was a <hi>Prophet,</hi> becauſe he had told her a thing, which ſhe thought concealed from all the World; thereupon ſhe preſently deſires ſatis<g ref="char:EOLhyphen"/>faction, in that great and famous Controverſie, which at that time was handled with great Ani<g ref="char:EOLhyphen"/>moſity, Namely, Whether God was to be Wor<g ref="char:EOLhyphen"/>ſhiped on Mount <hi>Gerizim,</hi> according to the <hi>Sa<g ref="char:EOLhyphen"/>maritan;</hi> or on Mount <hi>Moriah,</hi> which was <hi>Sion,</hi> according to the <hi>Jewiſh Inſtitution.</hi> She, It ſeems, thinking it abſolutely Neceſſary, that God ſhould be ſerved in one of thoſe two pla<g ref="char:EOLhyphen"/>ces, and in no other: and to defend her ſelf in her preſent way of Worſhip, ſhe makes uſe of that common <hi>Aſylum,</hi> of Lazy and Ignorant Su<g ref="char:EOLhyphen"/>perſtition; I mean, <hi>Tradition</hi> and the Practiſe
+<pb n="2" facs="tcp:48049:7"/>of her <hi>Fathers; Our Fathers,</hi> ſaith ſhe, <hi>Worſhipped in this Mountain; <label type="milestone">
+                     <seg type="milestoneunit">Verſ. </seg>20</label> but ye ſay, that in Jeruſalem is the place, where men ought to worſhip.</hi>
+            </p>
+            <p>To this Demand, our Saviour is graciouſly pleaſed to return a double Anſwer.</p>
+            <p>Firſt, In general, whereby he takes away the ground of her Scruple; for whereas ſhe errone<g ref="char:EOLhyphen"/>ouſly thought that God muſt neceſſarily be ſerved in one of thoſe two places; our Saviour tells her, that the <hi>hour</hi> or <hi>time was approaching, when neither on this Mountain, nor yet at</hi> Jeruſalem, <hi>ye ſhall worſhip the Father,</hi> i.e. that God would no longer have his Worſhip limited and fixed to this or that peculiar place;
+<note place="margin">
+                  <hi>Mal.</hi> 1.11.</note> but as all places were in their own Nature Equal, ſo in every place, where men met together to ſerve God, <hi>pure Incenſe,</hi> viz. of <hi>Prayer</hi> and <hi>Praiſe</hi> ſhould be offered up to God; and that it ſhould not be material, <hi>where,</hi> but <hi>how,</hi> men ſerved him, as to his acceptance of them.</p>
+            <p>Secondly, And more particularly, our Saviour refutes her fond Argument, whereby ſhe nuzled up her ſelf in her own <hi>Superſtition; Ye</hi> i. <hi>Samaritan<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Worſhip,</hi> ſaith he, <hi>ye know not what: i. e.</hi> However ye plead preſcription, and Cuſtom of your Anceſtors; yet in Religious Worſhip, ye ought not to be guided barely by the Example of your Fathers, nor draw over you the Mask of Antiquity, to countenance an Er<g ref="char:EOLhyphen"/>ror; for trace up your Opinion to the Top, and let it run as high in Antiquity, as you pleaſe; yet as long as you have no certain and infallible Rule to walk by, but deviſe forms of your own Heads, and ſerve God, not according to the
+<pb n="3" facs="tcp:48049:7"/>Word of God, but your own Inventions; the Older your Opinion is, the worſe it is; as being nothing elſe but Gray-headed Ignorance, and Dotage made incureable by Time. But, ſaith he, <hi>We know what we worſhip: i.</hi> We <hi>Jews</hi> have re<g ref="char:EOLhyphen"/>ceived from God himſelf <hi>Ordinances</hi> and <hi>Rites</hi> of Worſhip, according to which we ſerve him; not weakly confining God to a Place, as you do; but obediently worſhipping him in that place which he himſelf hath appointed; and of which many glorious things are ſpoken, as that <hi>this Mountain shall be exalted above all Mountains,</hi>
+               <note place="margin">
+                  <hi>Iſa.</hi> 2.2.</note> 
+               <hi>and all Nations shall flow in unto it;</hi> And that, <hi>a Law shall go out from</hi> Sion, <hi>and the Word of God from</hi> Jeruſalem:
+<note place="margin">
+                  <hi>M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cah</hi> 4.1.</note> with many other ſpecial Priviledges, which long ſince have been propheſied of in reference to <hi>Je<g ref="char:EOLhyphen"/>ruſalem,</hi> our place of worſhip; by which <hi>we know,</hi> and are infallibly aſſured, that <hi>Salvation is of the</hi> Jews; <hi>i. e.</hi> the ſaving Doctrine is onely to be found amongſt us, and you <hi>Samaritans</hi> have nothing to ſhew, that any ſuch thing is commit<g ref="char:EOLhyphen"/>ted unto you.</p>
+            <p>Our Saviour having thus fully ſatisfied this Womans Scruple, and rectified her Erroneous Practiſe, by bringing of her unto a <hi>Rule of Wor<g ref="char:EOLhyphen"/>ship;</hi> which alone can be a comfortable ground of any Religious Action; ſince God looks not onely after the Matter, but the Manner of our Worſhip; and diſdains to be ſerved by the In<g ref="char:EOLhyphen"/>ventions of Men; ſince by their <hi>Adding to his Word,</hi> they onely preſume to be Wiſer and Holi<g ref="char:EOLhyphen"/>er then he; Therefore our Saviour repeats and enforces again what he had mentioned before; and tells her plainly, <label type="milestone">
+                  <seg type="milestoneunit">Verſ. </seg>23</label> that as Gods Worſhip
+<pb n="4" facs="tcp:48049:8"/>ſhould no longer be confined to a certain place, by way of Special Holineſſe; ſo neither ſhould it be clogged with thoſe <hi>Outward Forms</hi> and <hi>Cere<g ref="char:EOLhyphen"/>monies</hi> as before. No ſuch things as <hi>Pompous Garments, Legal Washings</hi> and <hi>Fleſhly Rites,</hi> ſhould be required any longer; but the <hi>True Worſhippers</hi> ſhould <hi>worship the Father in Spirit and in Truth:</hi> Which alone is the <hi>True Worship,</hi> becauſe all thoſe <hi>External Rites,</hi> were onely <hi>Shadows</hi> and Repre<g ref="char:EOLhyphen"/>ſentations of it. As if our Saviour had ſaid, it is no longer your <hi>Temples,</hi> nor your <hi>Altars,</hi> nor your <hi>Outward State</hi> and <hi>Magnificence,</hi> which God now looks after; but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>he ſeeks with earneſt<g ref="char:EOLhyphen"/>neſs,</hi> and approves with Delight and Compla<g ref="char:EOLhyphen"/>cency, onely ſuch as worſhip him in a Spiritual and Inward Manner.</p>
+            <p>The reaſon of which our Saviour gives, in the words of the Text, becauſe <hi>God is a Spirit,</hi> and, therefore he expects a Worſhip altogether ſuit<g ref="char:EOLhyphen"/>able to his own Nature: <hi>They that worship him, muſt worship him in Spirit and in Truth.</hi>
+            </p>
+            <p>In the words, there are two things conſidera<g ref="char:EOLhyphen"/>ble. 1. What God is. <hi>God is a Spirit.</hi> 2. What kind of Worſhip muſt be paid unto him. <hi>They that Worship him, muſt Worship him in Spirit and in Truth.</hi> From whence ariſe two Obſervations; the firſt of which I ſhall handle as a Doctrine, the other as an Uſe or Inference from it.</p>
+            <list>
+               <item>1. <hi>God is a Spirit:</hi> or, <hi>a Being altogether Spi<g ref="char:EOLhyphen"/>ritual.</hi>
+               </item>
+               <item>2. <hi>The Spiritual Worship of God, is the onely True Worship.</hi>
+               </item>
+            </list>
+            <p>For the underſtanding of the firſt, there are two things to be explained. 1. What is a <hi>Spirit.</hi>
+               <pb n="5" facs="tcp:48049:8"/>2. In what ſence, <hi>God</hi> is ſaid to be a <hi>Spirit.</hi>
+            </p>
+            <p>For the firſt, <hi>viz.</hi> what is a <hi>Spirit;</hi> the Schooles define it to be an <hi>Immaterial</hi> or <hi>Incorpo<g ref="char:EOLhyphen"/>real Subſtance;</hi> where, if in ſtead of the word <hi>Subſtance,</hi> (which is a Term very few underſtand) they had put the word <hi>Eſſence</hi> or <hi>Being</hi> (which anſwers to the Greek <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and to the Hebrew <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) they had ſpoke ſome, but not all the Truth. For thus our Saviour likewiſe defines a Spirit, in oppoſition to a groſſe and palpable Body.
+<note place="margin">
+                  <hi>Luke</hi> 24.39.</note> 
+               <hi>A Spirit,</hi> ſaid he, <hi>hath not Flesh and Bones as you ſee me to have.</hi> Which place though ſome have made uſe of for the definition of a <hi>Spirit;</hi> yet it is clear our Saviour ſpeaks there only of a <hi>Spirit,</hi> in that ſenſe that we call a <hi>Phantaſm</hi> or an <hi>Apparition,</hi> a <hi>Spirit;</hi> and therefore <hi>Ignatius</hi> in one of his Epi<g ref="char:EOLhyphen"/>ſtles, inſtead of the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> reads <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>A bodileſs Demon</hi> or <hi>Ghoſt.</hi>
+            </p>
+            <p>But in the word <hi>Spirit,</hi> is implied ſomething more Poſitive, then barely to tell us, what it is not; and as in the Definition of a Man, it would but little ſatisfie us, to tell us, that he <hi>is not an Horſe, nor an Houſe,</hi> &amp;c. becauſe theſe Negative De<g ref="char:EOLhyphen"/>ſcriptions would never lead us to thoſe Eſſential Characters and Properties, by which <hi>the Nature of man might be diſcerned.</hi> So nakedly to tell us as the Schools do, that a Spirit is <hi>Incorporeal,</hi> i. e. <hi>not a Body;</hi> will give but very little ſatisfaction, to the Enquiry, <hi>What it is.</hi>
+            </p>
+            <p>To find out therefore more poſitively what a Spirit is, I ſhall lay down this Ground; <hi>The Na<g ref="char:EOLhyphen"/>ture of every thing is to be diſcerned by its manner of Operation;</hi> as, though we can ſee neither Fire nor Air, yet we may juſtly conclude, they have
+<pb n="6" facs="tcp:48049:9"/>Different Natures, becauſe they produce Diverſe and Contrary effects. So that if there be ſome <hi>Things</hi> or <hi>Beings</hi> in the World; which have ſuch kind of Operations, as are no way applicable to or produceable by Bodies; then They have a Diſtinct Nature from <hi>Bodies;</hi> i. e. They are <hi>Spi<g ref="char:EOLhyphen"/>rits.</hi>
+            </p>
+            <p>What thoſe Operations are, every man may obſerve in the Actions of his <hi>Soul;</hi> And I ſhall inſtance onely in theſe three. 1. <hi>Power.</hi> 2. <hi>Pre<g ref="char:EOLhyphen"/>ſence.</hi> 3. <hi>Knowledge.</hi>
+            </p>
+            <p n="1">1. The firſt Action by which the Nature of the Soul of man may be diſcerned to be Spiritual, is <hi>Power;</hi> I mean that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: Or <hi>ſelf-moving-virtue;</hi> by which it can move, not onely it's ſelf, but the Body too, to which it is conjoyned. And this no meer <hi>Body</hi> is capable of, for <hi>motum movetur;</hi> No <hi>Body</hi> can otherwiſe move, then as it hath an Outward Principle to move it; but the Soul hath no other Motive of it's Actings, but it's own Will and Pleaſure. And though there be ſome who affirm, that the <hi>Will doth alwayes follow the last dictate of the underſtanding;</hi> yet this is Demon<g ref="char:EOLhyphen"/>ſtrably falſe, by the experience of all men in the World; as well as of the Apoſtle <hi>Paul</hi> who cries out of himſelf,
+<note place="margin">
+                  <hi>Rom.</hi> 7.</note> 
+               <hi>The things I like not, theſe do I.</hi> And it is a very true ſaying of one, to whoſe writings the Chriſtian world is little beholding; <hi>As oft as Reaſon is againſt a man, ſo often will a man be againſt Reaſon.</hi> For which no cauſe can be given, but meerly the Power of the Will, to move <hi>i. e.</hi> to determine it ſelf, in ſpight of all contrary ſuggeſtions from the <hi>
+                  <g ref="char:V">Ʋ</g>nderſtanding. Solomon</hi> therefore ſpeaking of dying man, divides
+<pb n="7" facs="tcp:48049:9"/>him into his two diſtinct, and ſeemingly inconſi<g ref="char:EOLhyphen"/>ſtent Natures; <hi>The duſt,</hi> ſayes he, <hi>i.</hi> the Body, <hi>re<g ref="char:EOLhyphen"/>turns to the Earth, as it was; but the Spirit</hi> i.
+<note place="margin">
+                  <hi>Eccleſ.</hi> 12.7.</note> the the Soul, <hi>returns to God who gave it.</hi> It is the Spark of Divinity within us, which puts <hi>Life</hi> and <hi>Motion</hi> into the Dull and Unactive piece of Earth about us; and ſo enlivens it, for the doing of ſuch Actions, as Fleſh alone could not compaſs, without the Influence and Conduct of ſome more Heavenly and Spiritual Principle.</p>
+            <p n="2">2. The ſecond Operation which demonſtrates the Soul of man to be a Spirit; is <hi>Preſence.</hi> We know that every Body is tied and limited to a place, out of which it cannot ſtir; and when<g ref="char:EOLhyphen"/>ever it is moved, it moves onely one way, and with one kind of Motion at once; making a dull leaſurely progreſs; Firſt how, then there by ſteps, without any Variety at all. Here<g ref="char:EOLhyphen"/>in therefore doth the Spirituality of the Soul of man moſt convincingly appear, in that at one inſtant it can attend ſo many different Employments; and without any diſtraction at all, wheels about in ſo many Contrary and Repug<g ref="char:EOLhyphen"/>nant Motions; not onely <hi>Seeing</hi> in one place, <hi>Hearing</hi> in another, <hi>Feeling</hi> in a third; but it runs over Innumerable <hi>Idea's;</hi> it ranges infinitely di<g ref="char:EOLhyphen"/>ſtant places, it admits of all manner of Contra<g ref="char:EOLhyphen"/>ries; and yet remains ſtill the ſame by one En<g ref="char:EOLhyphen"/>tire, Abſolute, Indiviſible Act, influencing eve<g ref="char:EOLhyphen"/>ry Part of the Body, and Animating the whole, which were it not a <hi>Spirit,</hi> it could not do.</p>
+            <p n="3">3. The laſt Operation of the Soul, which ſhowes it to be a Spirit, is <hi>Knowledge.</hi> The ut<g ref="char:EOLhyphen"/>moſt perfection of a Body, is <hi>Motion;</hi> and let a
+<pb n="8" facs="tcp:48049:10"/>Body be veſted with whatever Circumſtances to ſet it out, yet <hi>Figure</hi> and <hi>Motion,</hi> do anſwer and reſolve all it's <hi>Phenomena.</hi> But to reflect up<g ref="char:EOLhyphen"/>on it ſelf, to move, ſo as to know that it moves, to underſtand, and to be Conſcious of it's own Actings; to take in all manner of <hi>Idea's</hi> and <hi>Spe<g ref="char:EOLhyphen"/>cies</hi> of things, and to Spiritualize them in its Ap<g ref="char:EOLhyphen"/>prehenſion; theſe with many millions of ſuch kind of Actions, which are daily performed by the Soul of man, in the faculties of its Under<g ref="char:EOLhyphen"/>ſtanding and Will, are all beyond the Poſſibility of a Body; and therefore the Principle which produceth them is not a <hi>Body, i. e.</hi> It is a Spirit; And indeed, what ever our Modern <hi>Sadduces</hi> may argue (who are not afraid to tell us, that there is neither <hi>Angel</hi> nor <hi>Spirit</hi>) Yet when a man hath wearied himſelf with contemplating his Inward Frame, and in ſeeking to Unriddle thoſe Myſteries, which he is alwayes privy to in him<g ref="char:EOLhyphen"/>ſelf; he will at laſt find it, not the moſt ſafe and pious onely, but the moſt reaſonable way to con<g ref="char:EOLhyphen"/>clude,
+<note place="margin">
+                  <hi>Job</hi> 32.8. <hi>Prov.</hi> 20.17.</note> that <hi>there is a ſpirit in man, and the Inſpi<g ref="char:EOLhyphen"/>ration of the Almighty giveth <g ref="char:V">Ʋ</g>nderstanding;</hi> as <hi>Job</hi> ſaith; or as <hi>Solomon, The Mind of Man, is the Candle of the Lord,</hi> i. e. a Light placed in us, and to be uſed by us, but ſpringing from, and ſavou<g ref="char:EOLhyphen"/>ring of its Divine and Unconceiveable Origi<g ref="char:EOLhyphen"/>nal.</p>
+            <p>Having thus, by thoſe Actions of the Soul which every man is conſcious to in himſelf, de<g ref="char:EOLhyphen"/>monſtrated, at leaſt abundantly to my own ſatis<g ref="char:EOLhyphen"/>faction, that there is ſome <hi>Being</hi> or <hi>Nature</hi> in the World which is not Corporeal; I define a <hi>Spirit</hi> thus; A Spirit is a Being created by God, and
+<pb n="9" facs="tcp:48049:10"/>endued with Qualities, whereby it is enabled to move its ſelf, and to reflect upon its own actings; and therefore Incorporeal, ſince neither of thoſe Properties, are conceivable how they can be per<g ref="char:EOLhyphen"/>formed by any Body, in the moſt Subtil and Ab<g ref="char:EOLhyphen"/>ſtracted Conſideration. And ſo much for the firſt Querie, viz. <hi>What is a Spirit.</hi>
+            </p>
+            <p n="2">2. Secondly, The next thing to be explained was, in what ſenſe <hi>God</hi> is ſaid <hi>to be a Spirit;</hi> And I an<g ref="char:EOLhyphen"/>ſwer, in all thoſe ſenſes, wherein <hi>a Spirit</hi> can be conceived or expreſſed by us.</p>
+            <p n="1">1. Negatively, <hi>God is a Spirit,</hi> i.e. He is not a Body, but infinitely removed from, and incapa<g ref="char:EOLhyphen"/>ble of thoſe Imperfections, which do ariſe from Matter: according to that Definition of the A<g ref="char:EOLhyphen"/>poſtle <hi>John, God is Light,</hi>
+               <note place="margin">1 John 1.5.</note> 
+               <hi>and in him is no Dark<g ref="char:EOLhyphen"/>neſſe at all;</hi> i. e. No mixture of any thing, which might be an Allay to his Ineffable Purity and Perfection.</p>
+            <p n="2">2. Comparatively, By way of Proportion or Reſemblance to the Soul of man; Thus, <hi>God is a Spirit.</hi> i. e. what ever Excellence or Perfection we find in our ſelves, that is to be aſcribed unto God, in a more Abſolute and Perfect manner;
+<note place="margin">Pſal. 94.8.</note> as the Pſalmiſt, <hi>He that made the eye, ſhall not he ſee? He that made the ear, ſhall not he hear?</hi> &amp;c.
+<note place="margin">1 Cor. 2.12.</note> And the Apoſtle, <hi>As none knoweth the Things of Man, but the ſpirit of Man, which is in him; ſo none knows the Things of God but the Spirit of God.</hi> For ſince God made man <hi>after his own Image,</hi> there can be no Divine Quality in the Soul of man, but it is in the <hi>Arch-Type</hi> or Pattern in a more Supreme and Inexpreſſible degree. And therefore</p>
+            <p n="3">3. <hi>God is a Spirit,</hi> Tranſcendentally, i. e. In a
+<pb n="10" facs="tcp:48049:11"/>way of Eminency and Superlativeneſſe of Perfe<g ref="char:EOLhyphen"/>ction. Therefore God who doth often compare himſelf to man, thereby to familiarize himſelf unto our Apprehenſions, doth as often take us off from dwelling too long upon thoſe Thoughts, leaſt we ſhould thereby leſſen God, and think him to be altogether like unto our ſelves. For this rea<g ref="char:EOLhyphen"/>ſon, we are frequently called upon, to conſider that <hi>God is in Heaven,</hi> and <hi>we are on Earth;</hi> that, <hi>The Heaven of Heavens is not able to contain Him;</hi> whereas <hi>Our Foundations are in the Duſt,</hi> with ma<g ref="char:EOLhyphen"/>ny Expreſſions to the ſame Purpoſe; So that as Shade to Light; as the Picture of the Sun in wa<g ref="char:EOLhyphen"/>ter, unto the Real Globe in the Firmament; as Painters Flame, unto a Burning Fire; or what<g ref="char:EOLhyphen"/>ever elſe are moſt diſtant from the things they Fi<g ref="char:EOLhyphen"/>gure; ſo is the ſoul of Man if compared to God. So that when we ſay <hi>God is a Spirit,</hi> the meaning is, God is a Being, Infinitely Perfect and Pure in himſelf, but altogether Incomprehenſible and Inexpreſſible by us. And ſo much for the ſe<g ref="char:EOLhyphen"/>cond <hi>Query,</hi> in what ſenſe <hi>God is a Spirit.</hi>
+            </p>
+            <p>The Uſe or Inference from hence is that <hi>Spiri<g ref="char:EOLhyphen"/>tual Worſhip is the onely True Worſhip,</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe. </seg>
+               </label> That is to ſay, In all our Prayers and Addreſſes to God, we muſt fix an eye of Faith, eſpecially and mainly, upon thoſe Attributes and Deſcriptions of God, which do moſt clearly repreſent and expreſſe his Spiritual Nature unto us.</p>
+            <p>For the underſtanding of this, we muſt take Notice, that the principal thing which keeps a Man, in his Dark Eſtate of Unbelief and Unrege<g ref="char:EOLhyphen"/>neracy,
+<note place="margin">
+                  <hi>Epheſ</hi> 2.12.</note> is a ſecret Thought, that there is no God at all; and this is the condition of all Natural
+<pb n="11" facs="tcp:48049:11"/>men in the World; as <hi>Paul</hi> affirms of the <hi>Epheſi<g ref="char:EOLhyphen"/>ans,</hi> that, before their receiving of <hi>Chriſt,</hi>
+               <note place="margin">1 <hi>Theſ.</hi> 4.5.</note> they were <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>without God,</hi> or plain <hi>Atheiſts in the World;</hi> and in another place, <hi>The Gentiles knew not God,</hi> know nothing of him; for as he argues, <hi>how ſhould they know, of whom they had not heard?</hi> i. e. though God hath imprinted upon his Crea<g ref="char:EOLhyphen"/>tures certain legible Characters of his Power and Divine Goodneſſe; yet very few can ſpel the meaning of them; or from the works they ſee, be brought to acknowledge a Power whom they do not ſee; as the Apoſtle elſewhere teſtifies, <hi>The world by wiſdom knew not God.</hi> But when,
+<note place="margin">1 <hi>Cor.</hi> 1.21.</note> by the Power of ſome conviction, ariſing either from an Intent view of the Frame &amp; Make of the World; or from the obſervation of ſome remarkable turn of Providence, a man is brought off from his <hi>Atheiſm,</hi> he preſently is apt to fall into an<g ref="char:EOLhyphen"/>other gulf as dangerous, and as fatal; and that is, of thinking God to be like Man; full of the ſame paſſions, and pleaſed with the ſame things, which we imagine are moſt taking with men like our ſelves. And this conceit lies at the bottom of every mans Nature, and is the Foundation of all that <hi>VVill-VVorſhip,</hi> and <hi>Deviſed Service,</hi> which heretofore was entertained in the <hi>Gentile</hi> or <hi>Athe<g ref="char:EOLhyphen"/>iſtical;</hi> and, at this day reigns, in the <hi>Papal</hi> or <hi>Antichriſtian</hi> World; when men do meaſure God by themſelves, and go no higher in the con<g ref="char:EOLhyphen"/>templation of his Infinity, then what they con<g ref="char:EOLhyphen"/>ceive is aſcribable unto the higheſt ſtrain of Hu<g ref="char:EOLhyphen"/>mane Excellence.</p>
+            <p>This Erronious &amp; ſleight opinion, we are by all means to be armed and fortified againſt; for be<g ref="char:EOLhyphen"/>ſides
+<pb n="12" facs="tcp:48049:12"/>the mean and poor eſteem it begets of God in our Thoughts; it doth neceſſarily draw along with it this conceit, that God is beholding to Man, and that we do oblige him by our Service. And therefore the Scripture is very expreſs in declaring,
+<note place="margin">
+                  <hi>Pſal.</hi> 16.2, &amp;c. <hi>Job</hi> 35.7.</note> that, <hi>our Righteouſneſſe is nothing to him;</hi> and that when God requires to be worſhip<g ref="char:EOLhyphen"/>ed, he challengeth it onely as the Devout Ho<g ref="char:EOLhyphen"/>mage of an Humble Soul; and not thereby in the leaſt to encourage the Vanity and Pride of Boaſters, ſince his greatneſſe, is incapable of any Addition; God indeed doth in Scripture deſcribe himſelf by ſuch Names, as are of greateſt E<g ref="char:EOLhyphen"/>ſteem and Reverence with men; ſuch as are <hi>King, Lord, Father, Maſter,</hi> and the like, yet herein he is far from preſcribing a meer Bodily and Outſide Worſhip, ſuch as thoſe would have, who are as yet far from knowing, or at leaſt from conſidering, that <hi>God is a Spirit;</hi> But the mean<g ref="char:EOLhyphen"/>ing of all thoſe Expreſſions is this, that what kind of Outward Reverence we ſhow unto per<g ref="char:EOLhyphen"/>ſons, to whom we are ſo related, as a <hi>Subject</hi> is to his <hi>Prince,</hi> or a <hi>Son</hi> to his <hi>Father,</hi> or a <hi>Servant</hi> to his <hi>Maſter;</hi> the ſame by way of Analogy and Proportion, we ſhould ſhow to God, in the In<g ref="char:EOLhyphen"/>ward Frame and Deportment of our Spirits, when we appear before him in any ſolemn way of Worſhip.</p>
+            <p>Now to advance and raiſe up the mind unto this neceſſary pitch of Devotion, there can be no better expedient given, then fixedly to con<g ref="char:EOLhyphen"/>template the Spirituality of Gods Nature, unto which our worſhip muſt bear ſome proportion; and that will be, by faſtning upon thoſe Attri<g ref="char:EOLhyphen"/>butes
+<pb n="13" facs="tcp:48049:12"/>which do moſt repreſent his Spiritual Na<g ref="char:EOLhyphen"/>ture unto us. What thoſe Attributes are, from what hath been ſaid, may eaſily be gathered; for ſince <hi>Power, Preſence,</hi> and <hi>Knowledge,</hi> are theſe Actions of the Soul, which do demonſtrate it to be a <hi>Spirit;</hi> it will follow then, ſince <hi>God is a Spirit,</hi> the Attributes which do moſt declare him to be ſo, are theſe three. 1. His <hi>Omnipotence,</hi> 2. His <hi>Omnipreſence.</hi> 3. His <hi>Omniſcience;</hi> which ought moſt intently to be eyed by us, in our Worſhip of, and Addreſſes to Him.</p>
+            <p n="1">1. Firſt, The firſt Attribute we ſhould fix upon in our Worſhip of God, is his <hi>Omnipotence;</hi> which is in many and ſeveral Forms expreſſed in Scripture, all which, like ſo many lines point<g ref="char:EOLhyphen"/>ing at one Center, do but ſpeak this Truth, that <hi>God can do what he will,</hi> and that <hi>nothing can withſtand his VVill;</hi> becauſe the Will of the Crea<g ref="char:EOLhyphen"/>ture, is onely Gods Creature; it is his Wheel in the VVatch, and moves onely as he will turn it; And the <hi>Potter</hi> cannot have more abſolute power over, or leſſe reſiſtance from the <hi>Clay</hi> then God our Maker hath, if he ſo pleaſe to order it, from us his VVorkmanſhip.</p>
+            <p>The conſideration of this, at that time when we come to VVorſhip God, beſides that it gives God the Honour of his Power, which he deſires ſhould be Magnified; will be of Infinite uſe to us, in all the Courſe of our Lives, and in thoſe ſeveral ſcenes of Providence we may fall un<g ref="char:EOLhyphen"/>der. As</p>
+            <p n="1">1. This will be a wonderful encouragement unto us, to put up our Prayers to God, and to attend with Comfort the Succeſſe and Iſſue of
+<pb n="14" facs="tcp:48049:13"/>them. For what ſhould we deſpair of, if we can engage <hi>Omnipotence</hi> on our behalf? If therefore we miſs of what we Petition for, <hi>if we Ask and Have not;</hi> It is not, becauſe God is not able to do even more then we Aſk, but becauſe we <hi>Ask a miſs,</hi> and not with that Faith, which is requi<g ref="char:EOLhyphen"/>ſite to ſo Sacred an Action. It is our Unbelief of <hi>Gods Power</hi> which ties his hands; for did we pray with <hi>Full Aſſurance,</hi> that he whom we deal with could anſwer our moſt Laboured and Intenſe Requeſts, that he could ſatisfie our moſt Enlarg<g ref="char:EOLhyphen"/>ed and Heightned Expectations; we ſhould not depart ſo often as we do, without a Bleſſing. But God ſcorns a Suitor, that hath low thoughts of him; For what do we elſe but tacitly contemn God, if we think that it lies in a poor Creatures power to Ask, what the Great Creator cannot do? Yet this, as eaſie a matter as it may be ſup<g ref="char:EOLhyphen"/>poſed to be, hath been the great miſcarriage of the Saints of Old;
+<note place="margin">
+                  <hi>Gen.</hi> 18.12.</note> What made <hi>Sarah laugh,</hi> i. e. Inwardly make a ſport and jeſt of the Promiſe God made to give her <hi>a Son in her Old Age,</hi> but her doubting of this Attribute. <hi>After I am waxed Old,</hi> ſaith ſhe, <hi>ſhall I have pleaſure, my Lord being old alſo?</hi> In which words, ſhe muſters up all man<g ref="char:EOLhyphen"/>ner of Arguments to augment the Difficulty; and therefore the Lord to ſatisfie her, is fain to have recourſe unto his own <hi>Omnipotence; Is any thing,</hi> ſaith he, <hi>too hard for the Lord?</hi> Intimating that, whatever ſhe pretended, yet indeed, that was the Fundamental Article ſhe doubted of.
+<note place="margin">
+                  <hi>Exod.</hi> 4.1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, 11.</note> So what made <hi>Moſes</hi> raiſe up ſo many Scruples, and urge ſo many Objections againſt his being ſent to <hi>Pha<g ref="char:EOLhyphen"/>raoh,</hi> alleadging that <hi>he was not Eloquent, but ſlow
+<pb n="15" facs="tcp:48049:13"/>of Speech, and ſlow of Tongue;</hi> intimating, that God could certainly do no great matter, by him who was laden with ſo many Imperfections; and withal inſinuating, that God might do well to make a better choice, thereby laying a ſecret im<g ref="char:EOLhyphen"/>putation upon Gods Wiſdom, as well as his Pow<g ref="char:EOLhyphen"/>er; as if God had not choſe a fit Meſſenger to do his Errand. God therefore doth anſwer all his Objections, by raiſing him, from looking down upon himſelf that was ſent, to look up to him that ſent him; <hi>Who,</hi> ſaith he, <hi>hath made Mans mouth, or who makes the Dumb, or Deaf, or Seeing, or Blind, is it not I the Lord?</hi> i. ſhall God do the great<g ref="char:EOLhyphen"/>er, and ſhal not he do the leſs? Shall he be able to make man, and ſhal he not be able afterwards to fit him for what Ends and Uſes he pleaſes? In the very ſame manner we find afterwards, that <hi>David</hi> and <hi>Zachary,</hi> and the Diſciples of our Saviour did often miſcarry. So that as our Saviour tells them, <hi>They could not caſt out the Devil,
+<note place="margin">
+                     <hi>Mat.</hi> 17.20.</note> becauſe of their <g ref="char:V">Ʋ</g>nbelief; but if they had the leaſt grain of Faith in God, they ſhould preſently be able even to remove Mountains, and nothing ſhould be impoſſible for them;</hi> ſo ſay I, the great cauſe why we thrive ſo ill in our Prayers and Supplications to God, it is becauſe we are faint and timerous Askers; We do not by Faith ſet <hi>Gods Omnipotence</hi> on Work; but in a Dubious and Unreſolved manner, we pray according to the Compaſs of what we ſee, and can Naturally hope to. And whileſt we do ſo, it is no wonder if we obtain no great Matters from the Hands of God; for as we un<g ref="char:EOLhyphen"/>dervalue a Prince if we ask Trifles of him, ſo doth he diſeſteem God, who asks any thing be<g ref="char:EOLhyphen"/>low
+<pb n="16" facs="tcp:48049:14"/>the Immediate Work of an <hi>Almighty Power;</hi> ſuch as is Preſervation from Danger, or ſupport under it; Pardon of ſin, and ſtrength againſt it, and the like, which are Petitions that God loves to hear, for ſince when ever he Anſwers a Pray<g ref="char:EOLhyphen"/>er, he would be known to do ſomething, which onely he is able to beſtow; and therefore by way of Prerogative and Excellence, he ſtiles himſelf, <hi>A God Hearing Prayer.</hi>
+            </p>
+            <p n="2">2. The conſideration of <hi>Gods Omnipotence,</hi> will take off all Deſpondency of Spirit, when Mat<g ref="char:EOLhyphen"/>ters go otherwiſe with us, then we would have them. When we are put to a plunge, and are run into a wild Maze and Labyrinth of Perplexities, not knowing how to reſolve, what will be the iſſue of ſuch or ſuch a Providence that croſſeth us; a Belief of Gods Omnipotence will fix us a<g ref="char:EOLhyphen"/>gain, and make us ſee clear day in the midſt of our Doubts. It was the Impious Triumph of thoſe Ungodly men, who had beſet and ſurround<g ref="char:EOLhyphen"/>ed <hi>David.</hi> 1. That they had left him no pro<g ref="char:EOLhyphen"/>bable way to eſcape:
+<note place="margin">
+                  <hi>Pſa.</hi> 3.2. <hi>Mat.</hi> 27.43.</note> 
+               <hi>Many there be,</hi> ſaith he, <hi>that ſay to my Soul, there is no help for him in God.</hi> As if they had ſaid, we have now made ſure work with him, and ſo ordered the matter, that Omnipotence it ſelf cannot reſcue him. As thoſe wicked Phariſees, when they had nailed our Saviour to the Croſs, they cut him yet more to the Heart, with this Reviling Speech, <hi>He tru<g ref="char:EOLhyphen"/>ſted in God, let him deliver him now, if he will have him, for he ſaid, I am the Son of God.</hi> VVhich Speeches uttered with ſo much contumely and bitter Scorn,
+<note place="margin">
+                  <hi>Pſal.</hi> 69.20.</note> did as our Saviour complains, <hi>break his Heart;</hi> and no doubt pierced deeper in<g ref="char:EOLhyphen"/>to
+<pb n="17" facs="tcp:48049:14"/>his Soul, then either the <hi>Thorns</hi> or <hi>Spear</hi> did into his Body. But what did our Saviour, what did <hi>David</hi> in that Extremity? For <hi>David,</hi> we find him in the ſame <hi>Pſalm,</hi> notwithſtanding all this, appropriating God unto himſelf, and boaſting of him, as his <hi>Shield,</hi> his <hi>Glory,</hi> and the lifter up of his <hi>Head;</hi> and to ſhow how much he ſlighted thoſe proud boaſts of his Inſolent Enemies, and how much they were miſtaken in their Triumph: <hi>I laid me down,</hi> ſaith he, <hi>and ſlept,</hi> i. e. I quietly repoſed my ſelf in the midſt of all theſe ſhakings; and that we might wonder at this his Calmneſſe and Security, he adds, <hi>For the Lord ſustained me.</hi> Thus likewiſe did our Saviour, juſt after thoſe words uttered by the <hi>Phariſees,</hi> which were ſo long before propheſied of, that they ſhould be ſpoken, our Saviour adds, <hi>But thou O Lord art my God, from my Mothers Belly;
+<note place="margin">
+                     <hi>Pſal.</hi> 22.10.</note> Be not therefore far from me, for trouble is near.</hi> As if he had ſaid, Times of deep diſcouragement, and Amazing di<g ref="char:EOLhyphen"/>ſtractions are thy Times, therefore now appear vigorouſly, when thou alone canſt have the glo<g ref="char:EOLhyphen"/>ry. When a Creature is wholly forſaken as it were, when it is hung round with Terrour, and even fainting for want of Inward ſupply and ſuccour; then if a ſoul can but ſay to God, <hi>Thou art the Lord, the Lord Almighty;</hi> and by an Act of Faith, redouble, <hi>Thou art my God;</hi> what ſhould it fear, or what can it tremble at? <hi>For if God be for us, who can be againſt us?</hi> the World hath not in it Terrours or Diſcouragements enow to fright ſuch an one, whoſe God is the Lord; and who hath Omnipotence it ſelf for his ſhield and Protection.</p>
+            <p n="3">
+               <pb n="18" facs="tcp:48049:15"/>3. Laſtly, the conſideration of Gods Omnipo<g ref="char:EOLhyphen"/>tence, will Quiet and Pacifie the Soul, under its <hi>Afflictions;</hi> where by <hi>Afflictions,</hi> I mean Spiritu<g ref="char:EOLhyphen"/>al and Inward Griefs; ſuch as are <hi>ſenſe of ſin, fear of wrath, Diſpair of Mercy,</hi> and the like: For as for other things, viz. <hi>Want, Poverty, Di grace</hi> and the like which paſs with the World for <hi>Afflicti<g ref="char:EOLhyphen"/>ons,</hi> and are the ordinary Themes of Declaimers in Divinity, if we do ill, they are our Wages, as due to us as hire is to the Labourer: if we do well, they are Marks of Honour, and ought to be triumphed and gloried in, as our Choiceſt and moſt Signal Priviledges. But when God hath put his Terrors into the Soul, when he appears our Enemy, and by an Immediate Act of his Pow<g ref="char:EOLhyphen"/>er, ſpeaks Diſpair and Anguiſh unto a Wounded Conſcience; a ſoul in that Caſe hath no poſſibi<g ref="char:EOLhyphen"/>lity of Relief, but what it can gather from acting Faith upon Gods Omnipotence. For it is upon this ſcore that we may beg for pardon, as <hi>Moſes</hi> did for the <hi>Iſraelites,</hi>
+               <note place="margin">Numb. 14.17.</note> 
+               <hi>and now let the Power of my Lord be great, as thou haſt ſaid, I am a God long-ſuffering, Therefore forgive the ſin of this people, ac<g ref="char:EOLhyphen"/>cording to the greatneſs of thy Mercy.</hi> For great Power is alwayes accompanied with great Mer<g ref="char:EOLhyphen"/>cy,
+<note place="margin">Pſal 103 1, 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Pſalm 3 35.</note> for ſuch an one, <hi>will conſider our Frame, will remember that we are but Duſt,</hi> as <hi>David</hi> ſpeaks, or as the Church, <hi>He will not Afflict willingly, nor grieve the Children of Men.</hi> God who is infinite in Power, doth not delight to ſhew it in trouble<g ref="char:EOLhyphen"/>ing his poor Creature, who alwayes lies under his Laſh, and cannot bear with the Effects of his Anger. Therefore when <hi>Iob</hi> complained ſo grievouſly that God <hi>hedged up his way, with Affli<g ref="char:EOLhyphen"/>ctions,</hi>
+               <pb n="19" facs="tcp:48049:15"/>as with Thorns: that <hi>he did find occaſions againſt him,</hi> and <hi>counted him for his Enemy;</hi> with many ſuch expreſſions, as the bitterneſſe of his Soul did cauſe him to utter: <hi>Elihu</hi> anſwers him in Gods ſtead; Firſt,
+<note place="margin">Job. 33.12.</note> in minding him that <hi>God was greater than Man,</hi> and therefore it was in vain, to reply againſt God, ſince <hi>he gave not any Account of his Matters.</hi> And leaſt this Anſwer ſhould onely ſerve to keep <hi>Job</hi> from <hi>Complain<g ref="char:EOLhyphen"/>ing,</hi> but not from <hi>Repining;</hi> leaſt it ſhould onely make him ſilence his Diſcontents, but not totally ſuppreſſe them: <hi>Elihu</hi> reproves that Conſidera<g ref="char:EOLhyphen"/>tion with adding this, <hi>That God can do no wrong, and the Almighty cannot commit Iniquity.</hi>
+               <note place="margin">Job 34.10.</note> The Force of which Reaſon, conſiſts, not onely in this, becauſe Soveraign or Almighty Power, makes all his Actions Juſt, who ever hath it (which is a Curious &amp; an Unprofitable Notion in this Caſe) but becauſe God, in his Word, hath tied himſelf to Rules; he hath been pleaſed to Oblige him<g ref="char:EOLhyphen"/>ſelf to be Gracious, and to attend his peoples good, in the Exerciſe of his Power. And there<g ref="char:EOLhyphen"/>fore in ſtead of thoſe bitter Complaints againſt God, wherewith perſons Mouths are uſually fil<g ref="char:EOLhyphen"/>led in ſuch Caſes, let them rather be opened in thankfulneſſe, ſince God doth in very Faithful<g ref="char:EOLhyphen"/>neſſe correct, and hath deſignes of Mercy, when he plungeth us into the Depth of Miſery.
+<note place="margin">Heb. 12.10.</note> For the End of all is to purge out our ſin, that we may partake of his Holineſſe.</p>
+            <p>So much for the firſt Attribute, viz. Gods Om<g ref="char:EOLhyphen"/>nipotence.</p>
+            <p n="2">2. Secondly, The other Attributes, which do belong to God, as he is a <hi>Spirit;</hi> and which in
+<pb n="20" facs="tcp:48049:16"/>our Approaches to him, are moſt to be reflected upon by us: are his <hi>Omnipreſence,</hi> are his <hi>Omni<g ref="char:EOLhyphen"/>ſcience;</hi> I joyn them both together, becauſe they are both but one Act, and in Scripture Lan<g ref="char:EOLhyphen"/>guage are never ſeveral; In which to <hi>ſee</hi> and to <hi>know</hi> is all one. Thus God is ſaid <hi>I ſee all things;</hi> that <hi>nothing is concealed from him;</hi> that, All things are vain &amp; <hi>naked</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Anatomized</hi> or <hi>Diſerted,</hi>
+               <note place="margin">Heb. 4.</note> 
+               <hi>their In-ſide as it were turned out be<g ref="char:EOLhyphen"/>fore him.</hi> That there is no Poſſibility for any Action, no not for a Thought, to be hid from God. Now with many other Expreſſions to the ſame purpoſe; becauſe he fills all Places, he is preſent to all things, he is Intimate and Inward with all the Actions of his Creatures.</p>
+            <p>The underſtanding of this the Pſalmiſt doth acknowledge to be very difficult, <hi>ſuch knowledge,</hi> ſaith he,
+<note place="margin">Pſal. 1 9 6. Pſal. 94.9, 11</note> 
+               <hi>is too wonderful for me,</hi> it <hi>is high, I cannot attain unto it;</hi> but yet he gives a Reaſon which doth unanſwerably prove it, <hi>He that formed the eye ſhall not he ſee? he that teacheth much know<g ref="char:EOLhyphen"/>ledge,</hi> ſhall not he know? Yes, ſaith he, <hi>the Lord doth know the Thoughts of Man that they are vanitie.</hi>
+               <note place="margin">Pſal. 139</note> 
+               <hi>David</hi> therefore doth moſt excellent<g ref="char:EOLhyphen"/>ly deſcribe the All-ſearching virtue of Gods Omniſcience, when ſpeaking in the perſon of one, that would fain ſhut himſelf out of Gods View, and retire from his Inſpection, he aſkes <hi>Whither ſhall I go from thy Spirit, or whither ſhall I flee from thy Preſence?</hi> And then he reckons up e<g ref="char:EOLhyphen"/>very thing, which a vain man would imagine to be a ſufficient place of Secrecy. <hi>If I go to Hea<g ref="char:EOLhyphen"/>ven, thou art there; If I make my bed in Hell, thou art there alſo.</hi> If I think to travel and to quit
+<pb facs="tcp:48049:16"/>
+               <pb facs="tcp:48049:17"/>
+               <gap reason="missing" extent="2 pages">
+                  <desc>〈2 pages missing〉</desc>
+               </gap>
+               <pb n="23" facs="tcp:48049:17"/>ner, nothing elſe but a calling of God to take Notice that we dare neglect him. So much of Outward Deportment, as may demonſtrate we are Inwardly affected with what we are doing, is without doubt neceſſary; but then it muſt be paid, not to the Place, but to the Ordinance; Not to the Encloſure of Walls, but to the Di<g ref="char:EOLhyphen"/>vine Adminiſtrations in it; for when the Pub<g ref="char:EOLhyphen"/>lick Duties are Ended, the Place is as Common,
+<note place="margin">
+                  <hi>Exod.</hi> 19.13.</note> (<hi>I</hi> mean as any ſpecial Holineſſe) as that Mount was, when the Trumpet ceaſed from ſounding. Let us then conſider <hi>Gods Omnipreſence,</hi> that we may learn to feel him with our Hearts; and then our Bodies will quickly be ſupple and pliant enough, but till then we offer only an Unclean thing; a Carkaſſe only, which will be ſo far from being accepted, that it will be imputed to us for ſin. The Apoſtle doth exhort the <hi>Corin<g ref="char:EOLhyphen"/>thian</hi> Women, to have <hi>a Care of their Head;</hi> i.
+<note place="margin">1 <hi>Cor.</hi> 1.</note> to be vailed, <hi>becauſe of the Angels;</hi> which may be un<g ref="char:EOLhyphen"/>derſtood either of <hi>Good Angels,</hi> who would make uſe of their Beauty, as Baits, to tempt others unto Unclean and Luſtful Thoughts, or elſe, of <hi>good An<g ref="char:EOLhyphen"/>gels</hi> who love comelineſs of Behaviour in Publick Aſſemblies; the Rule of which comelineſſe, in Men, is what ever is Manly; in Women, what<g ref="char:EOLhyphen"/>ſoever is Modeſt. Others perhaps will draw <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> for <hi>Outward Decency,</hi> in <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> whom that onely <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>the Church</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="24" facs="tcp:48049:18"/>portune and ſollicit? this ſhould take up our ſouls, and fill us with Thoughts, ſuitable to the Majeſty and purity of him, before whoſe Eyes, and to whoſe view, we do preſent our ſelves; and then indeed we Honour him.</p>
+            <p n="2">2. Laſtly, This Conſideration that God is <hi>Om<g ref="char:EOLhyphen"/>nipreſent,</hi> i.e. alwayes beholding and obſerving us, will put the heart into a Religious, Careful and Obediential Frame, even after Publick Du<g ref="char:EOLhyphen"/>ties are ended. The ſame Poſture of Mind, we had at Church, we ſhall carry along with us, if we think that we are ſtill in the preſence of God; It is indeed too true, that moſt mens Devotion doth end with the Miniſters laſt Prayer, then, like a Watch wound up too high, we break the ſtring, and let all unravel again, <hi>&amp;c.</hi> As <hi>Cain</hi> is ſaid <hi>to go out from the Preſence of the Lord;</hi> ſo do we, thinking perhaps, that God is no where but when we laſt ſpake to him. But Holy men we find did act clean otherwiſe;
+<note place="margin">
+                  <hi>Job.</hi> 31.1.4.</note> 
+               <hi>Job</hi> ſaid, <hi>He made a Covenant with his Eyes; he would not ſo much as look upon a Maid;</hi> what was it that made him ſo watchful and ſollicitous?
+<note place="margin">
+                  <hi>Pſal.</hi> 16.8.</note> 
+               <hi>Doth not,</hi> ſaith he, <hi>he ſee all my Wayes, and count all my Steps?</hi> This Thought did make him ſtrangle ſin in the Birth, and ſtifle it in its firſt Conception. So <hi>David, I have ſet the Lord alwayes before me,</hi> ſaith he, and it fol<g ref="char:EOLhyphen"/>lows, <hi>therefore I ſhall not be <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi> in my Reſolves for <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> if Omnipoten<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Offend <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <note place="margin">2 <hi>Cor.</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 1.</note>
+               <pb n="25" facs="tcp:48049:18" rendition="simple:additions"/>
+               <hi>Holineſſe in the fear of God.</hi> Gods Indwel<g ref="char:EOLhyphen"/>ling and Nearneſſe to us, is the moſt Potent Mo<g ref="char:EOLhyphen"/>tive to perſwade to Heart-<gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> &amp; <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rf<gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ion of Holineſſe. To conclude therefore, Did men think, that if they went to their Chambers, God was there; if to their Studies, God was there; if to their Beds, God was ſtill there; Within, Without, About them; curiouſly marking their ſteps, and with his Balance weighing their Acti<g ref="char:EOLhyphen"/>ons; they would not, they durſt not think that Darkneſſe could hide their ſin, or that a Cloſet can conceal Iniquity. Thou Fool! what ever thou art, who ſinneſt, becauſe, as thou thinkeſt, no Eye beholds thee, does not God ſee? and will not thy Conſcience witneſſe? What wilt, what canſt thou ſay, when God calls thee to Judgement! when he ſhall charge upon thee, at ſuch a Time, in ſuch a Place, upon ſuch an Occaſion, thou ſaidſt in thine Heart, Tuſh God doth not ſee it, and on this Motion didſt not fear to do that which had thy Father, or thy Friend been by, thou wouldeſt have been aſha<g ref="char:EOLhyphen"/>med of. Let us not then dare to ſatisfie our Luſts, or pleaſe our Vain and Irregular Deſires, till we can bribe God to turn away his Eyes, and not to behold our Folly. Till then to be Secure, is to be Deſperate; and to ſin, is nothing elſe, but to Affront God unto his Face, and to tell <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſee, or that he cannot <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Attributes which <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>long to God,</p>
+            <pb facs="tcp:48049:19" rendition="simple:additions"/>
+            <pb facs="tcp:48049:19"/>
+         </div>
+      </body>
+   </text>
+</TEI>
